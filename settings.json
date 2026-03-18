@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot6", 
+    "username": "allawi", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "zaszas223-3W4Y.aternos.me", 
-    "port": 34603,   
+    "ip": "allawis.aternos.me", 
+    "port": 54436,   
     "version": "1.12.1"   
   },
   
